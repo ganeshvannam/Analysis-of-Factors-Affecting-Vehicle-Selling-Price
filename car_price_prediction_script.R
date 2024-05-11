@@ -1,4 +1,4 @@
-car_data <- read.csv("C:/Users/surya/Downloads/new car details v4.csv")
+car_data <- read.csv("C:/Users/GaneshVannam/Downloads/new car details v4.csv")
 
 
 # View the structure of the data set
