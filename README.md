@@ -47,7 +47,7 @@ This R script performs analysis and prediction on a dataset containing details a
 
 ## Usage
 1. Ensure you have R and the required libraries installed (listed in the script).
-2. Download the dataset file `new_car_details_v4.csv` and place it in the appropriate directory.
+2. Download the dataset file `car_details_v4.csv` and place it in the appropriate directory.
 3. Run the R script `car_price_prediction_script.R` in an R environment or RStudio.
 
 ## Dependencies
