@@ -44,6 +44,7 @@ This R script performs analysis and prediction on a dataset containing details a
 ## Files
 - **car_price_prediction_script.R**: The main R script containing all the code for data analysis, preprocessing, modeling, and evaluation.
 - **car_details_v4.csv**: The dataset used for analysis.
+- ** Report**: FInal report of the project.
 
 ## Usage
 1. Ensure you have R and the required libraries installed (listed in the script).
